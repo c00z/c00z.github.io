@@ -28,3 +28,9 @@ TODO: Write credits
 License
 
 TODO: Write license
+
+
+##Future updates:
+1. Float images and text on main page
+2. Increase back-ground image opacity
+3. Build out additional content pages

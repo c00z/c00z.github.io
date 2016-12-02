@@ -10,7 +10,33 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+  background-size: 100% 110%;
+}
+
+.aboutmain {
+  height: 550px;
+  padding-top: 55px;
+  background: url(http://i.imgur.com/fBjA64a.jpg);
   background-size: 100% 100%;
+  min-height: 100%;
+	width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.contactmain {
+  height: 550px;
+  padding-top: 55px;
+  background: url(http://i.imgur.com/BYuUKuh.jpg);
+  background-size: 100% 100%;
+  min-height: 100%;
+	width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .main p {
@@ -61,6 +87,9 @@ h1, h2, p, a {
   color: white;
   background-color: rgb(99, 104, 112);
 }
+.contactbtn:hover {
+  background-color: #b51e1e;
+}
 
 .section {
   padding-top: 50px;
@@ -74,9 +103,14 @@ h1, h2, p, a {
 
 }
 
-.sidetext {
-
+/*.row {
+  display: inline-block;
 }
+
+.sidetext {
+  display: inline-block;
+
+}*/
 
 .linkstyle {
   text-decoration: none;

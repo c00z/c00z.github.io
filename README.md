@@ -1,10 +1,10 @@
 Personal WDI Website
 
-TODO: Write a project description
+TODO: Progress to do date on person website for WDI 34
 
 Installation
 
-TODO: Describe the installation process
+TODO: Open
 
 Usage
 

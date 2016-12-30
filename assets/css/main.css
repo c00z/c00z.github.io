@@ -1,4 +1,31 @@
-.container {
+* {
+  border: 1px black solid;
+}
+
+
+
+/*GIF ANIMATION HEADER*/
+.main-header {
+  padding-top: 170px;
+  height: 850px;
+  background: url(http://orig07.deviantart.net/3c51/f/2016/075/d/0/blue_mountains_animation_by_grayamaroq-d9vbn8y.gif) no-repeat center;
+  background-size: cover;
+  color: white;
+  background-color: #000131;
+}
+
+  .main-header2 {
+    padding-top: 200px;
+    height: 650px;
+    background: linear-gradient(#000131, transparent 10%), linear-gradient(0deg, #fff, transparent), #000131 no-repeat center;
+    background-size: cover;
+    color: white; }
+
+
+
+
+
+/*.container {
   max-width: 928px;
 
 }
@@ -60,7 +87,7 @@ h1 {
   display: inline-block;
 }*/
 
-a {
+/*a {
   font-size:28px;
   font-weight: 300;
   text-decoration: underline;;
@@ -108,7 +135,7 @@ h1, h2, p {
   width: 600px;
   height: 400px;
 
-}
+}*/
 
 /*.row {
   display: inline-block;
@@ -118,7 +145,7 @@ h1, h2, p {
   display: inline-block;
 
 }*/
-
+/*
 .linkstyle {
   text-decoration: none;
   color: black;
@@ -141,5 +168,4 @@ footer {
   padding: 20px 0px 80px;
   text-align: center;
 }
-
-}
+*/

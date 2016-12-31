@@ -79,8 +79,8 @@ margin: 12px 0 0; }
      /* Stay on top */
      top: 0;
      right: -250px;
-     background-color: #111;
-     opacity: 1;
+     background-color: #3A5AA3;
+     opacity: .8;
      overflow-x: hidden;
      /* Disable horizontal scroll */
      padding-top: 90px;
@@ -115,7 +115,7 @@ margin: 12px 0 0; }
 
  /* hambburger image */
 
- .burger-icon {
+ .menu-icon {
      height: 50px;
      position: fixed;
      display: visible;

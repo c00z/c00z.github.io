@@ -1,8 +1,14 @@
 console.log("Sanity Check: JS is working!");
 
 $(document).ready(function(){
-  // $(".hwlink").on("click", function handleClick(event){
-  //   event.preventDefault();
-  //   alert("Warning! I'm not smart. Do not copy!!");
-  // });
+  $('#more').click(function() {
+      // $(this).hide();
+      $("#mySidenav").addClass('sidenav-open');
+  })
+
+  $('.closebtn').click(function() {
+      // $('#more').show();
+      $("#mySidenav").removeClass('sidenav-open');
+  })
+
 });

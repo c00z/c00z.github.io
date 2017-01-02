@@ -1,0 +1,22 @@
+{
+  "name": "c00z.github.io",
+  "version": "1.0.0",
+  "description": "Personal WDI Website",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c00z/c00z.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c00z/c00z.github.io/issues"
+  },
+  "homepage": "https://github.com/c00z/c00z.github.io#readme"
+}
